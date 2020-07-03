@@ -1,6 +1,6 @@
 **[AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicin?)**
 
-AI-For-Medicine-Specialization I have completed this specialization from Coursera &amp;amp; deeplearning.ai. 
+I have completed this specialization from Coursera by deeplearning.ai. 
 This specialization consists of 3 courses.1) AI for Medical Diagnosis, 2) AI for Medical Prognosis and 3) AI for Medical Treatment. 
 I have learned many things ,such as: Diagnosing diseases from x-rays and 3D MRI brain images,Predicting patient survival rates more accurately using tree-based models,Estimating treatment effects on patients using data from randomized trials , Automating the task of labeling medical datasets using natural language processing etc.
 
@@ -10,7 +10,7 @@ I have learned many things ,such as: Diagnosing diseases from x-rays and 3D MRI 
   + Week 2
     + Evaluation of Diagnostic Models
   + Week 3
-    + Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)
+    + Brain Tumor Auto-Segmentation for MRI
 
 **[Certificate](https://www.coursera.org/account/accomplishments/certificate/ZYPVFP4DFWB7)**
 

@@ -1,6 +1,8 @@
 **[AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicin?)**
 
-AI-For-Medicine-Specialization I have completed this specialization from Coursera &amp;amp; deeplearning.ai. This specialization consists of 3 courses.1)AI for Medical Diagnosis, 2)AI for Medical Prognosis and 3) AI for Medical Treatment. I have learned many things ,such as: Diagnosing diseases from x-rays and 3D MRI brain images,Predicting patient survival rates more accurately using tree-based models,Estimating treatment effects on patients using data from randomized trials , Automating the task of labeling medical datasets using natural language processing etc.
+AI-For-Medicine-Specialization I have completed this specialization from Coursera &amp;amp; deeplearning.ai. 
+This specialization consists of 3 courses.1) AI for Medical Diagnosis, 2) AI for Medical Prognosis and 3) AI for Medical Treatment. 
+I have learned many things ,such as: Diagnosing diseases from x-rays and 3D MRI brain images,Predicting patient survival rates more accurately using tree-based models,Estimating treatment effects on patients using data from randomized trials , Automating the task of labeling medical datasets using natural language processing etc.
 
 + **[AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)**
   + Week 1
@@ -22,7 +24,7 @@ AI-For-Medicine-Specialization I have completed this specialization from Courser
   + Week 4
     + Cox Proportional Hazards and Random Survival Forests
     
-  **[Certificate](https://www.coursera.org/account/accomplishments/certificate/WN2P5JBK7G4V)**
+**[Certificate](https://www.coursera.org/account/accomplishments/certificate/WN2P5JBK7G4V)**
     
 + **[AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)**
   + Week 1
@@ -34,4 +36,4 @@ AI-For-Medicine-Specialization I have completed this specialization from Courser
     
 **[Certificate](https://www.coursera.org/account/accomplishments/certificate/MR2CVGCRFSP8)**
     
- #h1 **[Please give Star or Fork if you like it. Thanks]**
+ #h1 Please give Star or Fork if you like it. Thanks.

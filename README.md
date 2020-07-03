@@ -10,7 +10,7 @@ AI-For-Medicine-Specialization I have completed this specialization from Courser
   + Week 3
     + Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)
 
-![Certificate](https://www.coursera.org/account/accomplishments/certificate/ZYPVFP4DFWB7)
+**[Certificate](https://www.coursera.org/account/accomplishments/certificate/ZYPVFP4DFWB7)**
 
 + **[AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)**
   + Week 1
@@ -22,7 +22,7 @@ AI-For-Medicine-Specialization I have completed this specialization from Courser
   + Week 4
     + Cox Proportional Hazards and Random Survival Forests
     
-   ![Certificate](https://www.coursera.org/account/accomplishments/certificate/WN2P5JBK7G4V)
+  **[Certificate](https://www.coursera.org/account/accomplishments/certificate/WN2P5JBK7G4V)**
     
 + **[AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)**
   + Week 1
@@ -32,6 +32,6 @@ AI-For-Medicine-Specialization I have completed this specialization from Courser
   + Week 3
     + ML Interpretation 
     
-![Certificate](https://www.coursera.org/account/accomplishments/certificate/MR2CVGCRFSP8)
+**[Certificate](https://www.coursera.org/account/accomplishments/certificate/MR2CVGCRFSP8)**
     
-**Please give Star or Fork if you like it. Thanks **
+ #h1 **[Please give Star or Fork if you like it. Thanks]**
